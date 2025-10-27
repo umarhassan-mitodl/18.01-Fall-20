@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "b28f05bb-f3c3-b44d-28bc-8f11fc7834cd",
+      "b65ee713-dccd-4d9d-97c3-3d16eb8805df",
+      "cc819e66-a330-43ea-8d9b-f64fed55a1f8",
+      "66fc7ec0-0893-4904-a707-c302655d80eb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ef40e216-3ead-4c5b-a17b-7493c31803ed",
+    "website": "1801-calculus-i-single-variable-calculus"
+  },
+  "course_title": "Calculus I: Single Variable Calculus",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "Master the calculus of derivatives, integrals, coordinate systems, and infinite series.\n\nIn this three-part series you will learn the mathematical notation, physical meaning, and geometric interpretation of a variety of calculus concepts. Along with the fundamental computational skills required to solve these problems, you will also gain insight into real-world applications of these mathematical ideas.\n\n- {{% resource_link \"9201f1e9-a249-49d1-abf0-5f1c23af6038\" \"Part 1: Differentiation\" %}}\n- {{% resource_link \"b8fbb007-fed4-4c6c-adde-d1dc5d0ca6c2\" \"Part 2: Integration\" %}}\n- {{% resource_link \"e19bc5ac-1801-441f-9c39-71b8cd23b80b\" \"Part 3: Coordinate Systems & Infinite Series\" %}}\n\nThis series of courses is part of the {{% resource_link \"eb749892-7c38-433c-abbb-cf8859a6b0bd\" \"Open Learning Library\" %}}, which is free to use. You have the option to sign up and enroll in the courses if you want to track your progress, or you can view and use all the materials without enrolling.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.01",
+  "course_image_thumbnail": {
+    "content": "350cd125-993b-4044-8821-799510b6ec60",
+    "website": "1801-calculus-i-single-variable-calculus"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "site_uid": "6153f0a4-57db-4118-a2b3-88bcd000e1da",
+  "site_short_id": "18.01-Fall-20",
+  "site_url_path": "courses/18-01-calculus-i-single-variable-calculus-fall-2020"
+}
