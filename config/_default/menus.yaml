@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 0d3a0f65-e56c-410c-894e-dc4614ccc433
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 10
+- identifier: 9201f1e9-a249-49d1-abf0-5f1c23af6038
+  name: 'Part 1: Differentiation'
+  pageRef: /external-resources/part-1-differentiation_9201f1e9-a249-49d1-abf0-5f1c23af6038
+  weight: 20
+- identifier: b8fbb007-fed4-4c6c-adde-d1dc5d0ca6c2
+  name: 'Part 2: Integration'
+  pageRef: /external-resources/part-2-integration_b8fbb007-fed4-4c6c-adde-d1dc5d0ca6c2
+  weight: 30
+- identifier: e19bc5ac-1801-441f-9c39-71b8cd23b80b
+  name: 'Part 3: Coordinate Systems & Infinite Series'
+  pageRef: /external-resources/part-3-coordinate-systems-infinite-series_e19bc5ac-1801-441f-9c39-71b8cd23b80b
+  weight: 40
